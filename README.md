@@ -35,29 +35,9 @@ Dashboard ini menyediakan antarmuka yang ramah pengguna untuk melakukan berbagai
     * Melakukan dan menginterpretasikan uji asumsi regresi linear (Linearitas, Normalitas Residual, Homoskedastisitas, Independensi Residual, Multikolinearitas).
     * Mengunduh laporan analisis regresi dalam format RMarkdown (`.Rmd`) yang mencakup semua hasil dan interpretasi.
 
+
 ## Struktur Proyek
 Repositori ini memiliki struktur folder sebagai berikut:
-Projek_UAS_Komstat/Anda benar sekali! Mohon maaf, representasi struktur folder dengan karakter ── dalam satu baris seringkali tidak dirender dengan baik oleh GitHub Markdown karena dianggap sebagai teks biasa yang panjang, bukan sebagai hierarki visual.
-
-Saya akan memperbaiki bagian "Struktur Proyek" di file README.md Anda agar dirender dengan rapi di GitHub. Cara terbaik adalah menempatkannya di dalam code block Markdown agar format indentasinya terjaga.
-
-Berikut adalah bagian yang perlu Anda ganti di file README.md Anda:
-
-Bagian yang perlu Anda Ganti (di README.md Anda):
-
-Markdown
-
-## Struktur Proyek
-
-Repositori ini memiliki struktur folder sebagai berikut: Projek_UAS_Komstat/ ├── app.R ├── sovi_data.csv ├── indonesia_simplified.geojson └── ui/ ├── ui_beranda.R ├── ui_manajemen_data.R ├── ui_eksplorasi_data.R ├── ui_uji_asumsi_data.R ├── ui_statistik_inferensia.R └── ui_regresi_linear_berganda.R
-Ganti dengan kode ini (di README.md Anda):
-
-Markdown
-
-## Struktur Proyek
-
-Repositori ini memiliki struktur folder sebagai berikut:
-
 - Projek_UAS_Komstat/
     - app.R
     - sovi_data.csv
