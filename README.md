@@ -49,6 +49,9 @@ Repositori ini memiliki struktur folder sebagai berikut:
         - ui_uji_asumsi_data.R
         - ui_statistik_inferensia.R
         - ui_regresi_linear_berganda.R
+   - Laporan UAS dan Pakta Integritas/
+        - 2KS3_222313224_Muhamad Zidan Kurnia Ahida_UAS.pdf
+        - Pakta Integritas_2KS3_222313224_Muhamad Zidan Kurnia Ahida_UAS.pdf
 
 * `app.R`: File utama aplikasi Shiny yang berisi logika *server* dan menggabungkan komponen UI.
 * `sovi_data.csv`: Dataset asli yang digunakan dalam analisis.
