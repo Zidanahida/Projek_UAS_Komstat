@@ -58,17 +58,17 @@ Markdown
 
 Repositori ini memiliki struktur folder sebagai berikut:
 
-Projek_UAS_Komstat/
-├── app.R
-├── sovi_data.csv
-├── indonesia_simplified.geojson
-└── ui/
-├── ui_beranda.R
-├── ui_manajemen_data.R
-├── ui_eksplorasi_data.R
-├── ui_uji_asumsi_data.R
-├── ui_statistik_inferensia.R
-└── ui_regresi_linear_berganda.R
+- Projek_UAS_Komstat/
+    - app.R
+    - sovi_data.csv
+    - indonesia_simplified.geojson
+    - ui/
+        - ui_beranda.R
+        - ui_manajemen_data.R
+        - ui_eksplorasi_data.R
+        - ui_uji_asumsi_data.R
+        - ui_statistik_inferensia.R
+        - ui_regresi_linear_berganda.R
 
 * `app.R`: File utama aplikasi Shiny yang berisi logika *server* dan menggabungkan komponen UI.
 * `sovi_data.csv`: Dataset asli yang digunakan dalam analisis.
