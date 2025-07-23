@@ -1,4 +1,4 @@
-# Dashboard Analisis Data Kerentanan Sosial (SoVI) di Indonesia
+# Dashboard Analisis Data SoVI (DAD'S)
 
 Dashboard interaktif ini dikembangkan menggunakan R Shiny untuk memfasilitasi eksplorasi, manajemen, analisis statistik, dan pengujian asumsi data terkait Indeks Kerentanan Sosial (SoVI) di 511 kabupaten/kota di Indonesia. Proyek ini dibuat sebagai bagian dari tugas Ujian Akhir Semester (UAS) mata kuliah Komputasi Statistik.
 
