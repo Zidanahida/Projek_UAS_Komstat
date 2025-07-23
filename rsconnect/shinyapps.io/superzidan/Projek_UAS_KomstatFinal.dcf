@@ -1,0 +1,13 @@
+name: Projek_UAS_KomstatFinal
+title: Projek_UAS_KomstatFinal
+username: superzidan
+account: superzidan
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 15111564
+bundleId: 10658804
+url: https://superzidan.shinyapps.io/Projek_UAS_KomstatFinal/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: categorized_data.csv|distance.csv
